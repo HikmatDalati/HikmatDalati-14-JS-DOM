@@ -1,0 +1,25 @@
+.continerD{
+	width: 80%;
+	margin: auto;
+	border: 1px black solid;
+	background-color: lightgrey;
+}
+.bild{
+	object-fit: cover; width: 4000px; height: 250px;
+}
+
+.halfButtonL, .halfButtonR{
+	width: 105%;
+	margin-left: -13px;
+	margin-top: 5px;
+}
+.paragraph{
+	margin-top: 20px;
+	background-color: #e6e6e6;
+	width:1040px;
+	margin-left: -13px;
+}
+.redB{
+	margin: auto;
+	width: 1000px;
+}
